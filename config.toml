@@ -1,3 +1,5 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = ""
+languageCode = "fr"
+title = "Liste de naissance"
+defaultContentLanguage = "fr"
+disableHugoGeneratorInject = true
