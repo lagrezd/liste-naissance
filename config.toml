@@ -3,3 +3,4 @@ languageCode = "fr"
 title = "Liste de naissance"
 defaultContentLanguage = "fr"
 disableHugoGeneratorInject = true
+disableKinds = "taxonomy"
