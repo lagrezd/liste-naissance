@@ -1,0 +1,22 @@
+[{
+  "id": "1",
+  "name": "Table à langer",
+  "price": 169.99,
+  "image": "https://cdn1.home24.net/images/media/catalog/product/original/png/w/i/wickeltisch-jungle-samtweiss-1938910.jpg",
+  "description": "Table à langer Jungle de marque Kids Club Collection",
+  "url": "http://snipcart-hugo.netlify.com"
+}, {
+  "id": "2",
+  "name": "Lit à barreau",
+  "description": "Ce lit bébé 60 x 120 Blanc JIM réalisé en panneaux de particules est robuste et moderne. Les barreaux déposés sur les rebords du lit garantissent la sécurité de votre enfant. Il sera idéal pour accueillir votre nouveau né.",
+  "price": 199,
+  "image": "https://www.declikdeco.com/media/produits/img/lit-bebe-60-x-120-blanc-julian_161310_680x450.jpg",
+  "url": "http://snipcart-hugo.netlify.com"
+}, {
+  "id": "3",
+  "name": "Commode",
+  "description": "Commode bebe blanc Léontine.",
+  "price": 356.28,
+  "image": "https://www.alfredetcompagnie.com/377-thickbox_default/commode-bebe-blanc.jpg",
+  "url": "http://snipcart-hugo.netlify.com"
+}]

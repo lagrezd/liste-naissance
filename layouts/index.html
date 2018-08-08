@@ -1,0 +1,26 @@
+{{ partial "header.html" . }}
+
+{{ $products := getJSON "/data/products.json" }}
+
+<section class="container">
+    <div class="row">
+        <div class="col s6 m6">
+            <div class="row">
+                <div class="collection">
+                    {{ range $products }}
+                    <a  href="#!" class="collection-item">{{ .name }} - {{ .price}} €</a>
+                {{ end }}
+                </div>
+            </div>
+        </div>
+        <div class="col s6 m6">
+            <div class="row gallery">
+                {{ range $products }}
+                    {{ partial "product.html" . }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ partial "footer.html" }}
